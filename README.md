@@ -6,7 +6,7 @@
 
 叠加效果图（LiDAR 强度投影到相机图像）：
 
-![Example Overlay](example_Overlay.jpg)
+![Example Overlay](example_overlay.jpg)
 
 # VOD_Ve2Cam
 Convert lidar data from the View-of-Delft dataset to the camera coordinate system
