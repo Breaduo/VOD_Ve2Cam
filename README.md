@@ -1,8 +1,8 @@
 ## 📊 示例效果
 
-<p float="left">
-  <img src="example.jpg" width="45%" />
-  <img src="example_overlay.jpg" width="45%" />
+<p align="center">
+  <img src="example.jpg" alt="原图" width="49%" />
+  <img src="example_overlay.jpg" alt="叠加图（按强度着色）" width="49%" />
 </p>
 
 
