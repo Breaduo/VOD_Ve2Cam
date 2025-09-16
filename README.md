@@ -1,3 +1,13 @@
+## 📊 示例效果
+
+原始图像：
+
+![Example](example.jpg)
+
+叠加效果图（LiDAR 强度投影到相机图像）：
+
+![Example Overlay](example_Overlay.jpg)
+
 # VOD_Ve2Cam
 Convert lidar data from the View-of-Delft dataset to the camera coordinate system
 这个项目演示了如何将 **View-of-Delft 数据集** 的 LiDAR/Radar 点云投影到相机图像上，并用强度信息给点着色。
@@ -17,16 +27,6 @@ Convert lidar data from the View-of-Delft dataset to the camera coordinate syste
 
 建议使用 Python 3.10–3.12。  
 可以直接安装 `requirements.txt` 里的依赖。
-
-## 📊 示例效果
-
-原始图像：
-
-![Example](Example.jpg)
-
-叠加效果图（LiDAR 强度投影到相机图像）：
-
-![Example Overlay](Example_Overlay.jpg)
 
 
 ```bash
