@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="example.jpg" width="45%" />
-  <img src="example_overlay.jpg" width="45%" />
+  <img src="example_overlay.jpg" width="50%" />
 </p>
 
 
