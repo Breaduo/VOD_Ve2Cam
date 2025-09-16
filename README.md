@@ -1,12 +1,10 @@
 ## 📊 示例效果
 
-原始图像：
+<p float="left">
+  <img src="example.jpg" width="45%" />
+  <img src="example_overlay.jpg" width="45%" />
+</p>
 
-![Example](example.jpg)
-
-叠加效果图（LiDAR 强度投影到相机图像）：
-
-![Example Overlay](example_overlay.jpg)
 
 # VOD_Ve2Cam
 Convert lidar data from the View-of-Delft dataset to the camera coordinate system
