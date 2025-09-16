@@ -8,7 +8,7 @@ Convert lidar data from the View-of-Delft dataset to the camera coordinate syste
 - 将点云投影到相机图像，并保存带 overlay 的结果。
 - 颜色按照强度映射（colormap 可选），点大小与深度相关。
 
-- ## 使用方法
+## 使用方法
 1. 准备数据：
    - 图像：`your_address`
    - 点云：`your_address`
@@ -20,3 +20,7 @@ Convert lidar data from the View-of-Delft dataset to the camera coordinate syste
 
 ```bash
 pip install -r requirements.txt
+### 更多示例
+
+![Car Overlay](example.jpg)
+![Pedestrian Overlay](example_overlay.jpg)
