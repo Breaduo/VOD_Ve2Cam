@@ -7,7 +7,7 @@
 
 
 # VOD_Ve2Cam
-Convert lidar data from the View-of-Delft dataset to the camera coordinate system/n
+Convert lidar data from the View-of-Delft dataset to the camera coordinate system  
 这个项目演示了如何将 **View-of-Delft 数据集** 的 LiDAR/Radar 点云投影到相机图像上，并用强度信息给点着色。
 
 ## 功能
