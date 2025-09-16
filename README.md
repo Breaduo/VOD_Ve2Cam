@@ -20,7 +20,4 @@ Convert lidar data from the View-of-Delft dataset to the camera coordinate syste
 
 ```bash
 pip install -r requirements.txt
-### 更多示例
 
-![Car Overlay](example.jpg)
-![Pedestrian Overlay](example_overlay.jpg)
